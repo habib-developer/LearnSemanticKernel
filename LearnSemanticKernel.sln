@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSemanticKernel.AIReceptionist", "LearnSemanticKernel.AIReceptionist\LearnSemanticKernel.AIReceptionist.csproj", "{1295E0DB-B1FC-40B1-9F4D-E223C59954B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1295E0DB-B1FC-40B1-9F4D-E223C59954B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1295E0DB-B1FC-40B1-9F4D-E223C59954B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1295E0DB-B1FC-40B1-9F4D-E223C59954B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1295E0DB-B1FC-40B1-9F4D-E223C59954B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6713A23C-37EB-4708-8CEC-0F26E6F097D6}
+	EndGlobalSection
+EndGlobal
